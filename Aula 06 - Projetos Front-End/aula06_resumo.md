@@ -2,7 +2,7 @@
 
 **Disciplina:** Frameworks Front-end  
 **Foco:** Gestão de Projetos Front-End, Gestão de Requisitos, User Stories e Tarefas, Gestão do Backlog, Priorização e Estimativas, Definition of Done (DoD), Metodologia Ágil (Scrum/Kanban) e Atividade Prática do Projeto Integrador.  
-**Professor:** Prof. Me. Deivison S. Takatu (`deivison.takatu@edu.senai.br`)  
+**Professor:** Prof. Me.. Deivison S. Takatu (`deivison.takatu@edu.senai.br`)  
 
 ---
 
