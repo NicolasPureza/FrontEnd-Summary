@@ -2,7 +2,7 @@
 
 **Disciplina:** Frameworks Front-end  
 **Foco:** Revisão de JavaScript, JSX, Componentes, Props, Virtual DOM, Listas e Keys, Renderização Condicional e Atividade Prática com React.  
-**Professor:** Prof. Me. Deivison S. Takatu (`deivison.takatu@edu.senai.br`)
+**Professor:** Prof. Me.. Deivison S. Takatu (`deivison.takatu@edu.senai.br`)
 
 ---
 
