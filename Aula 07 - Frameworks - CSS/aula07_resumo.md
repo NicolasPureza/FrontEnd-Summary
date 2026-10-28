@@ -2,7 +2,7 @@
 
 **Disciplina:** Frameworks Front-end  
 **Foco:** Fundamentos de CSS, Formas de Aplicação, Propriedades Essenciais, Box Model, Flexbox, Layouts Responsivos, Introdução aos Frameworks CSS, Tailwind CSS (Abordagem Utility-First), Instalação e Atividades Práticas.  
-**Professor:** Prof. Me. Deivison S. Takatu (`deivison.takatu@edu.senai.br`)  
+**Professor:** Prof. Mee. Deivison S. Takatu (`deivison.takatu@edu.senai.br`)  
 
 ---
 
