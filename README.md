@@ -30,7 +30,7 @@ Repositórios dos projetos práticos desenvolvidos ao longo da matéria.
 
 | # | Aula | Projeto | Repositório | Deploy | Tecnologia |
 |---|------|---------|--------------|--------|------------|
-| 01 | Aula 01 | vannila.js | [🔗 Repositório](https://github.com/Arthur-2612/vannila.js) | [🌐 Ver online](https://vannila-js.vercel.app) | CSS / JavaScript |
+| 01 | Aula 01 | vannila.js | [🔗 Repositório](https://github.com/NicolasPureza/Vanilla-JS/blob/main/README.md) | [🌐 Ver online](https://vanillajs-beta.vercel.app/) | CSS / JavaScript |
 | 02 | Aula 02 | projeto-react | [🔗 Repositório](https://github.com/Arthur-2612/projeto-react) | [🌐 Ver online](https://projeto-react-red-six.vercel.app) | React |
 | 03 | Aula 03 | quiz_react | [🔗 Repositório](https://github.com/Arthur-2612/quiz_react) | [🌐 Ver online](https://quiz-react-jet-nine.vercel.app) | React |
 | 04 | Aula 03 | vue-project | [🔗 Repositório](https://github.com/Arthur-2612/vue-project) | [🌐 Ver online](https://vue-project-two-inky.vercel.app/) | Vue |
